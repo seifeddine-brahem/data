@@ -1,0 +1,8 @@
+name: "Developing_Data_Products"
+navbar:
+  title: "Developing Data Products"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
